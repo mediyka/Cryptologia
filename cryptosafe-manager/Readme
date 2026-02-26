@@ -1,1 +1,7 @@
-
+Чтобы запустить программу 
+Установите зависимости:
+1)pip install pytest pytest-cov python-dotenv
+Запустите приложение:
+2) python main.py
+Запустите тесты:
+pytest tests/ -v
