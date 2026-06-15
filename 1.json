@@ -1,0 +1,35 @@
+{
+  "cryptosafe_export": true,
+  "data": "FgDOO5gpx/Xq42c0Hj2S9t+LPncf6BggUOS1q+lwHGKhJZsVAK61UqpJ+1wUg1SXvruaoTYCqQ65/VUjdQ/UdPu/8mVbLwTgpjnZ8YymLy3GCyEM16NMiki0cUjNlnnaUuetkMdAZtqworTnQWlR2gRlFo6pfDfuKboz2ILWNsDvs4d5Cd7gn4ZjWHikouz0KSen080/ez2bfUizcmgEO9DyXmATLP73ZJ8DJLsKInjEKUwrMlsJk8+PYHhe4lxOULGj+envcLVTAF5roqFQG2JXfLmkfmreE4DSaUZP7at+eMoMGDxwRR96gupirURgY5L4+zAsUsVYEGwA49U7BJLInW8+4yE23YBkDmQeziE9TTtMF7XXSiaKIOnBcy2MhtXbpRGDh7N+9QYiKYzHHPOC0GRRdnzhrgSi8JW7oiF40/FIgZjXr21lKBR34GRjJBIF+Q8mYcICIgxYRjJWRT9u44C2fYkSW3WBzoca5Bx+FESLcB9hGrjzgVkkXFaIfK1/OAnl8z9yqQzxpS0RPp7EwrgqoP2lgP5/5U60NwuHqqNh5cWr0o6o0EJeleB0jY/OdGSppEcp6PkznYJuxKfUz/BoPHgdk51KKg7FbesKjPl6ObuwABB7SLMPGcV1IhY/XtvkmhP/jo0GKMUCC04KbUm8P2jCe0B0uAMKoUs2gp4DVK+z2AOWy3qFG6iAF2N0Vi+DwmIn33vwfOShXugeNKfEwi4uF4X3Bq13b4LfpwAO6KHf5WJjY6e40R3Fe+ZqHw7pP+VxvFCNUYUgXjQjRKdY+tXLT/4gQJSROr3EdFSAqCg54O2rEIiokjlBIBVuZwnMcIYxADGxzfj3SBVxX/SVfrtVX5/npLjatAi0sUABVXk6KSrxhF/tZV2aJ2KG1dOMiR95xQidBLXHtaJSmJhWtSDYNdIrYp2tI2JBBYtURMrI985Snt6dYXMsTxUy+zYzN93RhWiB0dX2BcUM14oSXncJiW0gDQSX3gVtulKzg07VabTPJw==",
+  "encryption": {
+    "aad": "Y3J5cHRvc2FmZS1tYW5hZ2VyOnNwcmludDY6ZXhwb3J0OnYx",
+    "algorithm": "AES-256-GCM",
+    "iterations": 100000,
+    "key_derivation": "PBKDF2-SHA256",
+    "key_separation": "export password key; master vault key is not reused",
+    "nonce": "DySnxKhHfmPFzgde",
+    "salt": "HwWBsp54+TAZW0AbG1RyCQ=="
+  },
+  "format_schema": "cryptosafe-native-export-v1",
+  "integrity": {
+    "hash": "0957a79f16160b04739e709900b2e65e08a48f538c48e560570a97947dd880a9",
+    "hash_algorithm": "SHA-256",
+    "signature": "16783099b6ca2d73c32a1ee5c209f421b0bf28eab7fd03bb55daf138355cd7f2",
+    "signature_algorithm": "HMAC-SHA256"
+  },
+  "metadata": {
+    "compression": null,
+    "entry_count": 2,
+    "excluded_fields": [],
+    "export_date": "2026-06-15T08:20:03.951755+00:00",
+    "format": "encrypted_json",
+    "included_fields": null,
+    "payload_sha256": "0957a79f16160b04739e709900b2e65e08a48f538c48e560570a97947dd880a9",
+    "payload_size": 747,
+    "selected_entries": false,
+    "source_application": "CryptoSafe Manager",
+    "version": "1.0"
+  },
+  "timestamp": "2026-06-15T08:20:04.019500+00:00",
+  "version": "1.0"
+}

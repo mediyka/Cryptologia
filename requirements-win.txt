@@ -1,0 +1,8 @@
+# Windows runtime dependencies for normal app launch.
+# No argon2, no pyinstaller, no Visual C++ build step.
+# The app uses Argon2id automatically if argon2-cffi is installed separately.
+cryptography>=42.0.0
+pyperclip>=1.8.2
+qrcode>=7.4.2
+Pillow>=10.0.0
+pystray>=0.19.5
